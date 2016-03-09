@@ -7,4 +7,7 @@
     <string name="name">HackIT!</string>
     <string name="ingresa_codigo">Ingresa código</string>
     <string name="comprobar_codigo">Comprobar código</string>
+    <string name="hack">"hACK3d)(24!XS!gNum"</string>
+    <string name="error_codigo">Codigo no vallido</string>
+    <string name="codigo_correcto">¡Código correcto!</string>
 </resources>
