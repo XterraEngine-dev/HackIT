@@ -11,13 +11,6 @@ import android.widget.TextView;
 
 public class MainActivity extends FragmentActivity implements FragmentFormulario.OnFragmentInteractionListener {
 
-    Button boton;
-    EditText texto;
-    String codigoSecreto;
-    TextView resultado;
-
-
-    //olol
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         requestWindowFeature(Window.FEATURE_NO_TITLE);
