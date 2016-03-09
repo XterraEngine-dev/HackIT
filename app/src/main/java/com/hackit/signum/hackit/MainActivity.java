@@ -21,7 +21,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
     String codigoSecreto;
     TextView resultado;
     public static String CODAHACK="hACK3d)(24!XS!gNum";
-
+//olol
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
