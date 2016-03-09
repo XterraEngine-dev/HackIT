@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">HackIT</string>
     <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">HackIT!</string>
+    <string name="ingresa_codigo">Ingresa código</string>
+    <string name="comprobar_codigo">Comprobar código</string>
 </resources>
